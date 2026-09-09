@@ -1,13 +1,13 @@
 # The AI Commerce Playbook
 ## How Small Sellers Can Find Customers, Win Trust, and Grow Online in 2026
 
-**By [Author Name]**
+**By Ananya Jain**
 
 ---
 
 ## Copyright and disclaimer
 
-Copyright © 2026 [Author Name]. All rights reserved.
+Copyright © 2026 Ananya Jain. All rights reserved.
 
 This book is educational and does not constitute legal, financial, tax, privacy, or platform-specific advice. Artificial-intelligence tools, platform policies, prices, and features change frequently. Verify current terms before relying on any tool or recommendation. Never upload confidential customer, payment, health, identity, or business-sensitive information into an AI system unless you have reviewed its security and data-use terms.
 
@@ -244,7 +244,7 @@ Your advantage is not that you can use every new tool. Your advantage is that yo
 
 ## About the author
 
-[Author Name] works in e-commerce and is interested in practical, responsible ways for small businesses to use technology to grow. This book was written for sellers who want useful systems rather than hype.
+Ananya Jain works in e-commerce and is interested in practical, responsible ways for small businesses to use technology to grow. This book was written for sellers who want useful systems rather than hype.
 
 ## Reader action
 

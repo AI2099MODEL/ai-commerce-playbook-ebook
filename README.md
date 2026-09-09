@@ -12,7 +12,7 @@ A Kindle-ready nonfiction ebook project created from current 2026 e-commerce and
 
 ## Current production status
 
-The manuscript is complete as a first edition draft, and the EPUB validates as a ZIP/EPUB package. The cover currently uses `[Author Name]` as a placeholder because the author name has not yet been supplied. Replace that placeholder in the manuscript and cover before publishing.
+The manuscript is complete as a first edition draft, and the EPUB validates as a ZIP/EPUB package. The cover currently uses `Ananya Jain` as a placeholder because the author name has not yet been supplied. Replace that placeholder in the manuscript and cover before publishing.
 
 ## Kindle publishing checklist
 
